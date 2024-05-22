@@ -89,4 +89,4 @@ public partial class MainPage : ContentPage
 
 **Output**
 
-![qemu-system-x86_64_Efm241foPA.gif](https://support.syncfusion.com/kb/agent/attachment/article/15674/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIzMTI3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.-7LIh-NyfE6Cu6eU7kU5A4Usru12DkUUJh0ktWQuVJQ)
+![NavigationDrawer.gif](https://support.syncfusion.com/kb/agent/attachment/article/15674/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIzMTI3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.-7LIh-NyfE6Cu6eU7kU5A4Usru12DkUUJh0ktWQuVJQ)
